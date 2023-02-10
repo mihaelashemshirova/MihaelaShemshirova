@@ -1,7 +1,12 @@
 ### Hi there 👋
 <div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/embed/PLGtXGjpuYv7HFcMJM)" width="480" height="480"/>
+</div>
+
+<div id="header" align="center">
   <iframe src="https://giphy.com/embed/PLGtXGjpuYv7HFcMJM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/jenterogteknologi-technology-jenter-teknologi-PLGtXGjpuYv7HFcMJM">via GIPHY</a></p>
 </div>
+
 ## My name is Mihaela Shemshirova.
 - 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
 <div id="badges">

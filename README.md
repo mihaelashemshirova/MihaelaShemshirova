@@ -3,10 +3,10 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mihaela-shemshirova/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue" title="For job" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/mihaelashemshirova">
-    <img src="https://img.shields.io/badge/-Linktree-brightgreen" alt="Linktree Badge"/>
+    <img src="https://img.shields.io/badge/-Linktree-brightgreen" title="Links for my social media" alt="Linktree Badge"/>
   </a>
   <a href="https://mihaelashemshirova.github.io/mshportfolio.github.io/">
     <img src="https://img.shields.io/badge/-MihaelaShemshirova-ff69b4" title="My portfolio website" alt="My site Badge"/>

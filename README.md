@@ -17,6 +17,7 @@
 
 ## Hi, I`m Mihaela
 I`m from Bulgaria and living in Sofia.
+I love learning new technologies.
 
 ---
 

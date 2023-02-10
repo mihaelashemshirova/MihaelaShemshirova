@@ -2,13 +2,6 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="200"/>
 </div>
-<div id="header" align="center">
-   <img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="300"/>
-</div>
-
-
-## My name is Mihaela Shemshirova.
-- 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -20,6 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-code - https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif
+
+## My name is Mihaela Shemshirova.
+- 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
+
+
+code text - https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif
+code </> - https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif
 lama - https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif
 girl can code - https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif

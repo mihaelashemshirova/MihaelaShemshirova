@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 ## My name is Mihaela Shemshirova.
 - 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
 <div id="badges">

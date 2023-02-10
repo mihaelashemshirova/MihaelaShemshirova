@@ -1,9 +1,8 @@
 ### Hi there 👋
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/PLGtXGjpuYv7HFcMJM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/jenterogteknologi-technology-jenter-teknologi-PLGtXGjpuYv7HFcMJM">via GIPHY</a></p>
-
 <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/PLGtXGjpuYv7HFcMJM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/jenterogteknologi-technology-jenter-teknologi-PLGtXGjpuYv7HFcMJM">via GIPHY</a></p>
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
+https://media1.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif?cid=ecf05e47tmqsuyei0lg7gdc8nkmuxbu3i00xsg45n2eqd8ps&rid=giphy.gif&ct=s
 
 ## My name is Mihaela Shemshirova.
 - 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.

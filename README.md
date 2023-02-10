@@ -2,8 +2,8 @@
    <img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/mihaela-shemshirova">
-    <img src="https://img.shields.io/badge/-Linkenin-blue" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/mihaela-shemshirova/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/mihaelashemshirova">
     <img src="https://img.shields.io/badge/-Linktree-brightgreen" alt="Linktree Badge"/>

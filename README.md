@@ -2,6 +2,9 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif"/>
 </div>
+<div id="header" align="center">
+   <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif"/>
+</div>
 
 
 ## My name is Mihaela Shemshirova.

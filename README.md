@@ -18,7 +18,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/kFG4ZUCcVaRwtnQ69m/giphy.gif" width="20" style="margin-right:5px;"/> Languages and Tools :
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" style="margin-right:5px;"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;

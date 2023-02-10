@@ -12,10 +12,11 @@
     <img src="https://img.shields.io/badge/-MihaelaShemshirova-ff69b4" alt="My site Badge"/>
   </a>
 </div>
-
+---
+## Hi, I`m Mihaela
 ---
 
-## My name is Mihaela Shemshirova.
+## About me:
 - 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
 
 ---

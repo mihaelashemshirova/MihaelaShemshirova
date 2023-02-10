@@ -13,12 +13,14 @@
   </a>
 </div>
 
+---
+
 ## My name is Mihaela Shemshirova.
 - 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
 
 ---
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" style="margin-right:5px;"/> Languages and Tools :
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" style="margin-right:5px;"/> Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

@@ -12,8 +12,11 @@
     <img src="https://img.shields.io/badge/-MihaelaShemshirova-ff69b4" alt="My site Badge"/>
   </a>
 </div>
+
 ---
+
 ## Hi, I`m Mihaela
+
 ---
 
 ## About me:

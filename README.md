@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/mihaela-shemshirova">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-Linkenin-blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://linktr.ee/mihaelashemshirova">
     <img src="https://img.shields.io/badge/-Linktree-brightgreen" alt="Linktree Badge"/>

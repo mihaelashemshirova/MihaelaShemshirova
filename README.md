@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Linktree-brightgreen" alt="Linktree Badge"/>
   </a>
   <a href="https://mihaelashemshirova.github.io/mshportfolio.github.io/">
-    <img src="https://img.shields.io/badge/-MihaelaShemshirova-ff69b4" alt="My site Badge"/>
+    <img src="https://img.shields.io/badge/-MihaelaShemshirova-ff69b4" title="My portfolio website" alt="My site Badge"/>
   </a>
 </div>
 

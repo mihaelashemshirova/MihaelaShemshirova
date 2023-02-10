@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/PLGtXGjpuYv7HFcMJM/giphy.gif" width="200"/>
 </div>
 <div id="header" align="center">
-   <img src="https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif" width="380"/>
+   <img src="https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif"/>
 </div>
 
 
@@ -22,3 +22,4 @@
 </div>
 code - https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif
 lama - https://media.giphy.com/media/Pn6lIQBz4eCH3wS6aK/giphy.gif
+girl can code - https://media.giphy.com/media/fAUvkY2LAJJre50kMr/giphy.gif

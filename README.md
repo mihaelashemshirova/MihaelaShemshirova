@@ -22,7 +22,7 @@ I love learning new technologies.
 ---
 
 ## About me:
-- 🌱 I’m currently learning Programming with Python Advanced and Programming Basics with JavaScript.
+- 🌱 I’m currently learning Programming OOP with Python.
 
 ---
 

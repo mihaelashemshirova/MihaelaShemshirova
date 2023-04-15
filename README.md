@@ -22,7 +22,7 @@ I love learning new technologies.
 ---
 
 ## About me:
-- 🌱 I’m currently learning Programming OOP with Python.
+- 🌱 I’m currently learning Django with Python.
 
 ---
 

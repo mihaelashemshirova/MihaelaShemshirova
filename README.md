@@ -23,7 +23,6 @@ I love learning new technologies.
 
 ## About me:
 - 🌱 I’m currently learning Django framework.
-- ✍ I'm writing an e-book.
 - 🚗 In my free time, I like to travel.
 
 ---

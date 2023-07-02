@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://giphy.com/gifs/girlsinstem-code-coding-programming-lkmM9NBSGUbKde24c9?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="200"/>
+   <img src="https://media.giphy.com/media/lkmM9NBSGUbKde24c9/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mihaela-shemshirova/">

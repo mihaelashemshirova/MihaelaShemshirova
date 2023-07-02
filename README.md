@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="[https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e471s1b18opi5g8sp8e9d0k1ega1ks5nf5e3ds363u5&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://career.sigma.software/)" width="200"/>
+   <img src="[[https://media1.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e471s1b18opi5g8sp8e9d0k1ega1ks5nf5e3ds363u5&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://career.sigma.software/)](https://media.giphy.com/media/IflUXNyXiEa5SAhD9V/giphy.gif)" width="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mihaela-shemshirova/">
